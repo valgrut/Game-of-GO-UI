@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/white_trans.png</file>
+        <file>resources/white.png</file>
+        <file>resources/triangle.png</file>
+        <file>resources/square.png</file>
+        <file>resources/eraser.png</file>
+        <file>resources/bowl_mensi.png</file>
+        <file>resources/black_trans.png</file>
+        <file>resources/black.png</file>
+        <file>pozadi/s80.png</file>
+        <file>pozadi/s70.png</file>
+        <file>pozadi/s50.png</file>
+        <file>pozadi/s30.png</file>
+        <file>pozadi/60.png</file>
+        <file>pozadi/40.png</file>
+        <file>pozadi/30.png</file>
+        <file>resources/white3.png</file>
+        <file>resources/big-grid.jpg</file>
+        <file>resources/background.jpg</file>
+        <file>resources/mid-grid.jpg</file>
+        <file>resources/plane-board-text3.jpg</file>
+        <file>resources/small-grid.jpg</file>
+    </qresource>
+</RCC>
